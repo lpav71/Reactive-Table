@@ -1,0 +1,18 @@
+.myTable {
+    width  : 40%;
+    margin : 20px auto;
+}
+
+.form-one {
+    margin : auto;
+    width  : 25rem;
+}
+
+.header-one {
+    margin : auto auto 30px auto;
+    width  : 34rem;
+}
+
+.sort-icon {
+    display : none; /* Скрываем значки сортировки по умолчанию */
+}
